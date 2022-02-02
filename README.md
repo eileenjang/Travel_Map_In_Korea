@@ -9,3 +9,5 @@
 
 ##### (3) Link of the project 
 ###### https://youtu.be/BWl1fd5KOBo
+
+###### My application, 2, 3 are exercises of 3 videos
